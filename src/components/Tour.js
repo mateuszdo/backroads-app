@@ -1,4 +1,3 @@
-import { tours } from '../data'
 
 const Tour = ({image, location, date, title, text, icon, duration, price}) => {
     return (
